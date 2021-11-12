@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **URL MERGER**
 
-- 🌱 I’m currently learning **MERN,FLUTTER,CYBERSECURITY**
+- 🌱 I’m currently learning **MERN,FLUTTER,CYBERSECURITY,FINANCE,MATHEMATICS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KunalKartik02](https://github.com/KunalKartik02)
 
